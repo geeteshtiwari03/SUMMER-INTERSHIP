@@ -1,0 +1,6 @@
+Name,Age,Department,Salary,Joining_Date
+Aman,22.0,IT,50000,2023-01-10
+Riya,21.0,HR,40000,2022-05-15
+Aman,22.0,IT,50000,2023-01-10
+Karan,,Finance,60000,wrongdate
+,24.0,HR,45000,2021-08-20
